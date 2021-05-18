@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @estebansalvi
-- 👀 I’m interested in in  introducirme  en el mundo de la programacion,  capacitandome y  aprendiendo de los distintos lenguajes.
-- 🌱 I’m currently  realizando una Diplomatura en Dessarrollo Full Stack Web, donde por el momento vi HTML, CSS y Javascript.
-- 💞️ I’m looking to collaborate on algun proyectyo  donde pueda empezar a desarrollar mi lado  profesional.
+- 👀 Estoy interesado en introducirme en el mundo de la programacion,  capacitandome y  aprendiendo de los distintos lenguajes.
+- 🌱 Me encuentro realizando una Diplomatura en Dessarrollo Full Stack Web, donde por el momento vi HTML, CSS y Javascript.
+- 💞️ Estoy buscando colaborara en algun proyectyo donde pueda empezar a desarrollar mi lado  profesional.
 - 📫 Me pueden contactar a traves de mi correo: estebansalviejo@hotmail.com
 
 <!---
